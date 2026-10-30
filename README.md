@@ -14,8 +14,8 @@ Hi there, I'm Rania Marium T!
 - **Studio Course:** Portfolio Building (School of Computer Science and Engineering)  
 
 **Certifications:**  
-- **IBM CERTIFICATION**:** Programming using Python.
-- **IDEATE'BLR**: **AWS Hackathon.
+- **IBM CERTIFICATION**: Programming using Python.
+- **IDEATE'BLR**: AWS Hackathon.
 
 
 ### 🎯 Learning Goals
@@ -39,8 +39,14 @@ Hi there, I'm Rania Marium T!
 
 ### 🚀 Featured Projects
 
-- **Smart Resume & Portfolio Builder:** An AI-assisted web application featuring live preview rendering and ATS-friendly exports.
-- **GeoShield-NER / GeoVision:** AI-driven disaster management and early warning platform designed for risk assessment and landslide monitoring.
+#### 🤖 AI & Intelligent Systems
+* **GeoVision / GeoShield-NER:** AI-driven disaster management and early warning system designed for landslide monitoring, hazard assessment, and real-time risk alerts.
+* **Smart Resume & Portfolio Builder:** AI-assisted web application featuring live preview rendering, customized minimalist aesthetics, and ATS-friendly document exports.
+
+#### 🌐 Web Development & Front-End Applications
+* **Train Ticket Management Portal:** Interactive web application for browsing routes, booking travel tickets, and client-side reservation management with form validation.
+* **Travel Exploration Hub:** Minimalist, responsive web interface built for travel discovery, curated destination showcases, and cross-device usability.
+* **Personal Developer Portfolio:** Responsive web portfolio featuring a clean sage-and-linen UI design to display personal projects, technical stack, and contact links.
 
 
 
